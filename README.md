@@ -25,4 +25,6 @@ From here I will keep track of all the challenges I will face while working on t
 ## Challenges:
 1. How to log your log files in specific directory (i.e. logbook)
 2. After getting html page and searching for ```html.find_all("div", {"class":"style-scope ytd-c4-tabbed-header-renderer"})``` It is not giving any values???
-3. 
+3. Facing `InvalidSelectorException ` while fetching data related to channel description
+4. How to click buttons on the web page
+5. 
